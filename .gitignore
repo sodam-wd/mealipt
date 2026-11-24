@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.vite/
+coverage/
+.DS_Store
+.env
+.env.*
+*.log
+public/assets/.DS_Store
+*.tsbuildinfo
+# 테스트 코드는 로컬 전용(공개 안 함)
+*.test.ts
+*.test.tsx
